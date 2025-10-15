@@ -8,7 +8,7 @@ const navItems = [
     { linkText: 'Revalidation', href: '/revalidation' },
     { linkText: 'Image CDN', href: '/image-cdn' },
     { linkText: 'Edge Function', href: '/edge' },
-    { linkText: 'Field Handbook', src: 'https://taskforcehightower.mintlify.app/' },
+    { linkText: 'Field Handbook', href: 'https://taskforcehightower.mintlify.app/' },
     { linkText: 'Classics', href: '/classics' }
 ];
 
